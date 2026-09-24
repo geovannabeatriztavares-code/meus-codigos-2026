@@ -1,2 +1,2 @@
 # meus-codigos-2026
-readme.md
+Neste ano quero aprender a programar em Python.
